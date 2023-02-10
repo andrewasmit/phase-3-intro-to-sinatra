@@ -18,6 +18,7 @@ GEM
 
 PLATFORMS
   universal-darwin-20
+  x86_64-darwin-21
 
 DEPENDENCIES
   rack-test (~> 1.1)
